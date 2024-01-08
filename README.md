@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋 Usama here</h1>
+<h1 align="center">Hi, Usama here </h1>
 <h3 align="center">Computer Engineer at UET Lahore</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usama2001&label=Profile%20views&color=0e75b6&style=flat" alt="usama2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama2001" alt="usama2001" /></a> </p>
 
 - 🔭 I’m currently working on **Data structure Concepts**
 
