@@ -23,33 +23,26 @@
   <h2>Experience</h2>
 
   <ul>
-    <li>
-      <h3>React Intern (TECH INCUBATOR ARFA KARIM) June 2022 - Aug 2022</h3>
+      <h3>React Intern (KICS UET) June 2022 - Aug 2022</h3>
       <ul>
         <li>I learned about the basics of React JS</li>
         <li>Made a portfolio website</li>
       </ul>
-    </li>
-    <li>
-      <h3>Django Intern (KICS UET) June 2021 - Sep 2021</h3>
+     <h3>Django Intern (KICS UET) June 2021 - Sep 2021</h3>
       <ul>
         <li>Created a website in Python framework Django</li>
         <li>Website for a restaurant</li>
       </ul>
-    </li>
-    <li>
       <h3>Blockchain Developer (FIVERR) June 2020 - Present</h3>
       <ul>
         <li>Successfully completed 22 projects on Fiverr</li>
         <li>Projects related to blockchain token creation like Bep20 and Erc20 tokens</li>
       </ul>
-    </li>
 
   </ul>
 
   <h2>Projects</h2>
   <ul>
-    <li>
       <h3>Final Year Project (Cashierless Retail Store)</h3>
       <ul>
         <li>To develop and implement cashier-less retail store</li>
@@ -65,7 +58,6 @@
         </ul>
       </ul>
     </li>
-    <li>
       <h3>Semester Projects</h3>
       <ul>
         <li>Car Racing Game in 3rd semester using the basics of OOP in Java</li>
