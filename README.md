@@ -25,4 +25,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usama2001&show_icons=true&locale=en&layout=compact" alt="usama2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usama2001&" alt="usama2001" /></p>
+## GitHub Stats
+<!-- Add GitHub stats, top languages, or any other relevant stats you want to showcase -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usama2001&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
