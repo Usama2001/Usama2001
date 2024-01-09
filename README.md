@@ -27,6 +27,6 @@
 
 ## GitHub Stats
 <!-- Add GitHub stats, top languages, or any other relevant stats you want to showcase -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=usama2001&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
