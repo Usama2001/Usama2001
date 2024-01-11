@@ -45,15 +45,17 @@
   <ul>
       <h3>Final Year Project (Cashierless Retail Store)</h3>
       <ul>
-        <li>To develop and implement cashier-less retail store</li>
+        <li>To develop and implement cashier-less retail store:</li>
+        <ul>
         <li>Customer registration and verification</li>
         <li>Backend development</li>
         <li>Installation of camera and sensor</li>
         <li>Integration and testing</li>
+        </ul>
         <li>Technologies Used:</li>
         <ul>
           <li>React Native for app development</li>
-          <li>● React for web development </li>
+          <li>React for web development </li>
           <li>Computer vision algorithms</li>
         </ul>
       </ul>
