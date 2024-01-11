@@ -52,9 +52,9 @@
         <li>Integration and testing</li>
         <li>Technologies Used:</li>
         <ul>
-          <li>React for app development</li>
-          <li>Node for Database</li>
-          <li>Computer vision algorithm</li>
+          <li>React Native for app development</li>
+          <li>● React for web development </li>
+          <li>Computer vision algorithms</li>
         </ul>
       </ul>
     </li>
