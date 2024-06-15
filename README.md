@@ -41,7 +41,6 @@
   </ul>
 
   <h2>Projects</h2>
-  <ul>
       <h3>Final Year Project (Cashierless Retail Store)</h3>
       <ul>
         <li>To develop and implement cashier-less retail store:</li>
@@ -59,7 +58,6 @@
         </ul>
       </ul>
      </li>
-      </ul>
     <h3>Data Analysis Projects</h3>
     <ul>
       <li>Power BI Project: I created a simple yet insightful Power BI dashboard, demonstrating my ability to visualize data effectively. <a href="https://www.linkedin.com/posts/usama2001_mini-project-simple-power-bi-dashboard-activity-7203062834128130048-VF8M?utm_source=share&utm_medium=member_desktop">Power BI Project</a></li>
