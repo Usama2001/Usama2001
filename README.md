@@ -102,7 +102,7 @@
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /></a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a>    
   </p>
-    <h2>Certifications</h2>
+    <h2>Certifications (DATABASE-SQL)</h2>
   <table>
     <tr>
       <td align="center">
@@ -120,6 +120,19 @@
       <td align="center">
         <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_basic%20certificate-1.png" target="_blank">
           <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_basic%20certificate-1.png" alt="SQL Basic Certificate" width="200" height="auto" />
+        </a>
+        <br>Basic
+      </td>
+    </tr>
+  </table>
+
+  
+ <h2>Certifications (PYTHON)</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" target="_blank">
+          <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" alt="SQL Advanced Certificate" width="200" height="auto" />
         </a>
         <br>Basic
       </td>
