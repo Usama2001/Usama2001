@@ -131,8 +131,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" alt="SQL Advanced Certificate" width="200" height="auto" />
+        <a href="https://github.com/Usama2001/certificates/blob/main/python_basic%20certificate.jpg" target="_blank">
+          <img src="https://github.com/Usama2001/certificates/blob/main/python_basic%20certificate.jpg" alt="Python Basic Certificate" width="200" height="auto" />
         </a>
         <br>Basic
       </td>
