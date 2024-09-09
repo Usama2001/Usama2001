@@ -25,6 +25,7 @@
   <ul>
       <h3>Application Consultant (Techlogix) 27 May 2024 - Present</h3>
       <ul>
+        <li>Data Engineering</li>
         <li>Core Banking</li>
       </ul>
      <h3>Django Intern (KICS UET) June 2021 - Sep 2021</h3>
