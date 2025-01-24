@@ -179,8 +179,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).png" target="_blank">
-          <img src="hhttps://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).png" alt="Python Basic Certificate" width="200" height="auto" />
+        <a href="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" target="_blank">
+          <img src="hhttps://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" alt="Problem Solving(Basic) Certificate" width="200" height="auto" />
         </a>
         <br>Basic
       </td>
