@@ -175,6 +175,18 @@
     </tr>
   </table>
 
+   <h2>Certifications (PROBLEM SOLVING)</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).png" target="_blank">
+          <img src="hhttps://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).png" alt="Python Basic Certificate" width="200" height="auto" />
+        </a>
+        <br>Basic
+      </td>
+    </tr>
+  </table>
+
 
 
 
