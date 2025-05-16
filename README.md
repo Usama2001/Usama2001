@@ -15,7 +15,7 @@
 <h4>
   
 - 🔭 I’m currently working on **Data Engineering**
-- 🌱 I’m currently learning **New thing related to Data Engineering**
+- 🌱 I’m currently learning **AI Agent**
 - 📫 How to reach me **usama20010101@gmail.com**/**+923099604550**
 - ⚡ Fun fact **I am an Urdu Poet**
   
@@ -24,13 +24,17 @@
 
   <ul>
       <h3>Application Consultant (Techlogix) 27 May 2024 - Present</h3>
+      <h5>A highly skilled Application Consultant with 2 years of hands-on experience in Anti-Money Laundering (AML), Trade-Based Anti-Money Laundering (TBAML), Core Banking (Flexcube), and Enterprise Case Management (ECM). Expertise in designing and implementing data pipelines, migrating complex banking systems, and enhancing operational efficiencies for financial institutions. Proficient in data management and real-time system optimization, with a strong focus on maintaining compliance with global financial regulations.
+</h5>
       <ul>
         <li>Data Engineering</li>
         <li>Core Banking</li>
+        <li>Trade-Based Money Laundering (TBML)</li>
+        <li>Anti-Money Laundering (AML)</li>
+        <li>Enterprise Case Management (ECM)</li>
         <li>ETL</li>
         <li>Flexcube/Flexcube3</li>
         <li>Toad</li>
-        <li>Data Analysis</li>
       </ul>
      <h3>Django Intern (KICS UET) June 2021 - Sep 2021</h3>
       <ul>
