@@ -188,14 +188,14 @@
         </a>
         <br>Basic
       </td>
+      <td align="center">
+        <a href="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" target="_blank">
+          <img src="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" alt="SQL Advanced Certificate" width="200" height="auto" />
+        </a>
+        <br>Intermediate
+      </td>
     </tr>
   </table>
-
-
-
-
-
-
 </body>
 
 </html>
