@@ -182,17 +182,17 @@
  <h2>Certifications (PROBLEM SOLVING)</h2>
   <table>
     <tr>
+            <td align="center">
+        <a href="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" target="_blank">
+          <img src="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" alt="SQL Advanced Certificate" width="200" height="auto" />
+        </a>
+        <br>Intermediate
+      </td>
       <td align="center">
         <a href="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" target="_blank">
           <img src="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" alt="Problem Solving(Basic) Certificate" width="200" height="auto" />
         </a>
         <br>Basic
-      </td>
-      <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" alt="SQL Advanced Certificate" width="200" height="auto" />
-        </a>
-        <br>Intermediate
       </td>
     </tr>
   </table>
