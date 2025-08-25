@@ -24,17 +24,17 @@
 
   <ul>
       <h3>Application Consultant (Techlogix) 27 May 2024 - Present</h3>
-      <h5>A highly skilled Application Consultant with 2 years of hands-on experience in Anti-Money Laundering (AML), Trade-Based Anti-Money Laundering (TBAML), Core Banking (Flexcube), and Enterprise Case Management (ECM). Expertise in designing and implementing data pipelines, migrating complex banking systems, and enhancing operational efficiencies for financial institutions. Proficient in data management and real-time system optimization, with a strong focus on maintaining compliance with global financial regulations.
+      <h5>Motivated Data Engineer with 2 years of experience in AML, TBAML, Flexcube Core Banking, and Enterprise Case Management. Skilled in building robust data pipelines, optimizing systems in real time, and managing complex banking migrations. Strong in Linux/Unix internals, Informix & MySQL administration, SQL/PLSQL, shell scripting, and database security. Passionate about delivering scalable data solutions that enhance compliance and performance.
 </h5>
       <ul>
-        <li>Data Engineering</li>
-        <li>Core Banking</li>
-        <li>Trade-Based Money Laundering (TBML)</li>
-        <li>Anti-Money Laundering (AML)</li>
-        <li>Enterprise Case Management (ECM)</li>
-        <li>ETL</li>
-        <li>Flexcube/Flexcube3</li>
-        <li>Toad</li>
+        <li><strong>Data Engineering</strong> (ETL, Data Warehousing, Data Pipelines, Big Data)</li>
+        <li><strong>Core Banking</strong> (Flexcube/Flexcube3, Toad)</li>
+        <li><strong>Financial Crime and Compliance-FCCM </strong> (Anti-Money Laundering (AML), Enterprise Case Management (ECM), Trade Anti-Money Laundering (TAML) )</li>
+        <li><strong>Anti-Money Laundering (AML)</strong></li>
+        <li><strong>Enterprise Case Management (ECM)</strong></li>
+        <li><strong>Database</strong> (MySQL, SQL, Oracle, PLSQL)</li>
+        <li><strong>Python</strong> (Pandas, NumPy, Matplotlib)</li>
+        <li><strong>Linux/Unix</strong> (Internals, Security, Automation)</li>
       </ul>
      <h3>Django Intern (KICS UET) June 2021 - Sep 2021</h3>
       <ul>
