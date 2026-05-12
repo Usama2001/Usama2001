@@ -11,12 +11,7 @@
   <a href="https://www.linkedin.com/in/usama2001">
     <img src="https://img.shields.io/badge/LinkedIn-Usama%20Fiaz-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Usama2001">
-    <img src="https://img.shields.io/badge/GitHub-Usama2001-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
-
-📫 **How to reach me:** `usama20010101@gmail.com`
 
 </div>
 
