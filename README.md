@@ -1,201 +1,265 @@
-<!DOCTYPE html>
-<html lang="en">
+<div align="center">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
+# Hi, Usama here 👋
 
-<body>
+### (AI Engineer | Application Consultant at Techlogix)
 
-<h1 align="center">Hi, Usama here </h1>
-<h3 align="center">(Application Consultant at Techlogix and Computer Engineer at UET Lahore)<h3>
+<p>
+  <a href="mailto:usama20010101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-usama20010101%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/usama2001">
+    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Fiaz-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Usama2001">
+    <img src="https://img.shields.io/badge/GitHub-Usama2001-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<h4>
-  
-- 🔭 I’m currently working on **Data Engineering**
-- 🌱 I’m currently learning **AI Agent**
-- 📫 How to reach me **usama20010101@gmail.com**/**+923099604550**
-- ⚡ Fun fact **I am an Urdu Poet**
-  
-<h4>
-  <h2>Experience</h2>
+📫 **How to reach me:** `usama20010101@gmail.com`
 
-  <ul>
-      <h3>Application Consultant (Techlogix) 27 May 2024 - Present</h3>
-      <h5>Motivated Data Engineer with 2 years of experience in AML, TBAML, Flexcube Core Banking, and Enterprise Case Management. Skilled in building robust data pipelines, optimizing systems in real time, and managing complex banking migrations. Strong in Linux/Unix internals, Informix & MySQL administration, SQL/PLSQL, shell scripting, and database security. Passionate about delivering scalable data solutions that enhance compliance and performance.
-</h5>
-      <ul>
-        <li><strong>Data Engineering</strong> (ETL, Data Warehousing, Data Pipelines, Big Data)</li>
-        <li><strong>Core Banking</strong> (Flexcube/Flexcube3, Toad)</li>
-        <li><strong>Financial Crime and Compliance-FCCM </strong> (Anti-Money Laundering (AML), Enterprise Case Management (ECM), Trade Anti-Money Laundering (TAML) )</li>
-        <li><strong>Anti-Money Laundering (AML)</strong></li>
-        <li><strong>Enterprise Case Management (ECM)</strong></li>
-        <li><strong>Database</strong> (MySQL, SQL, Oracle, PLSQL)</li>
-        <li><strong>Python</strong> (Pandas, NumPy, Matplotlib)</li>
-        <li><strong>Linux/Unix</strong> (Internals, Security, Automation)</li>
-      </ul>
-     <h3>Django Intern (KICS UET) June 2021 - Sep 2021</h3>
-      <ul>
-        <li>Created a website in Python framework Django</li>
-        <li>Website for a restaurant</li>
-      </ul>
-       <h3>Data Analysis (FIVERR) June 2022 - Present</h3>
-      <ul>
-        <li>Successfully completed 50 projects on Fiverr</li>
-        <li>Achieved 1st level by completing 20 projects without any complaints 
-50 plus projects completed on time </li>
-      </ul>
-      <h3>Blockchain Developer (FIVERR) June 2020 - Present</h3>
-      <ul>
-        <li>Successfully completed 22 projects on Fiverr</li>
-        <li>Projects related to blockchain token creation like Bep20 and Erc20 tokens</li>
-      </ul>
+</div>
 
-  </ul>
+---
 
-  <h2>Projects</h2>
-      <h3>Final Year Project (Cashierless Retail Store)</h3>
-      <ul>
-        <li>To develop and implement cashier-less retail store:</li>
-        <ul>
-        <li>Customer registration and verification</li>
-        <li>Backend development</li>
-        <li>Installation of camera and sensor</li>
-        <li>Integration and testing</li>
-        </ul>
-        <li>Technologies Used:</li>
-        <ul>
-          <li>React Native for app development</li>
-          <li>React for web development </li>
-          <li>Computer vision algorithms</li>
-        </ul>
-      </ul>
-     </li>
-    <h3>Data Analysis Projects</h3>
-    <ul>
-      <li>Power BI Project: I created a simple yet insightful Power BI dashboard, demonstrating my ability to visualize data effectively. <a href="https://www.linkedin.com/posts/usama2001_mini-project-simple-power-bi-dashboard-activity-7203062834128130048-VF8M?utm_source=share&utm_medium=member_desktop">Power BI Project</a></li>
-      <li>Amazon Stock Price Analysis: I conducted a comprehensive analysis of Amazon's stock prices, showcasing my proficiency in handling large data sets and extracting meaningful insights. <a href="https://www.linkedin.com/posts/usama2001_amazon-stock-price-all-time-data-anaylsis-activity-7197679129914179584-IKwT?utm_source=share&utm_medium=member_desktop">Amazon Stock Price Analysis</a></li>
-      <li>Coffee Shop Retail Sales Data Analysis: In this project, I analyzed retail sales data from a coffee shop, highlighting my ability to interpret data to support business operations. <a href="https://www.linkedin.com/posts/usama2001_ms-excel-dashboard-data-analysis-project-activity-7191444190436737024-ce9_?utm_source=share&utm_medium=member_desktop">Coffee Shop Data Analysis</a></li>
-      <li>Pizza Hut Data Analysis: I performed an in-depth analysis of Pizza Hut's data, demonstrating my critical thinking and problem-solving skills. <a href="https://www.linkedin.com/posts/usama2001_summary-of-pizza-hut-analysis-activity-7187960073950773248-WDHh?utm_source=share&utm_medium=member_desktop">Pizza Hut Data Analysis</a></li>
-    </ul>
-    </li>
-      <h3>Semester Projects</h3>
-      <ul>
-        <li>Car Racing Game in 3rd semester using the basics of OOP in Java</li>
-        <li>Spell Corrector in 4th semester using basics of DSA in C++</li>
-        <li>Sign Language Translator in 5th semester using computer vision</li>
-        <li>Crowd Funding in 6th semester using blockchain technology</li>
-      </ul>
-    </li>
-  </ul>
+## 👨‍💻 About Me
 
+I am a **Data-focused Application Consultant** with hands-on experience in **SQL/PLSQL, Python, data extraction, data transformation, data validation, ETL support, reporting, and production issue analysis**.
 
- <h2>Connect with me</h2>
-  <p>
-    <a href="https://linkedin.com/in/usama2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/usama20010101" height="30" width="40" /></a>
-    <a href="https://fb.com/usama.fiaz.908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/usama.fiaz.908" height="30" width="40" /></a>
-    <a href="https://instagram.com/usama_fiaz_2001/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/usama_fiaz_2001/" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/profile/usama20010101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/usama20010101" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/usama20010101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/usama20010101/" height="30" width="40" /></a>
-  </p>
+Alongside my professional experience, I am building my profile as an **AI Engineer** by working on machine learning and AI projects involving **data preprocessing, model training, prediction pipelines, Streamlit applications, prompt engineering, and AI-ready data preparation**.
 
- <h2>Languages and Tools</h2>
-<table style="width:100%; border-collapse: collapse;">
+---
+
+## 🤖 AI / Machine Learning Experience
+
+### Freelance AI and Data Projects | Self-Employed  
+**2021 - Present | Remote**
+
+- Built Python-based data analysis, automation, and reporting solutions using **Pandas, Excel, and Power BI**.
+- Cleaned, structured, and transformed raw data into analysis-ready outputs for dashboards and workflow automation.
+- Worked on hands-on AI/ML projects involving **supervised machine learning, deep learning, prompt engineering, and LLM-related experimentation**.
+- Explored **AI-ready data preparation, retrieval-based workflows, and automation use cases** through independent projects and continuous learning.
+
+---
+
+## 💼 Application Consultant Experience
+
+### Application Consultant | Techlogix  
+**May 2024 - Present | Lahore, Pakistan**
+
+- Write and optimize **SQL/PLSQL queries** for data extraction, validation, reconciliation, and issue analysis across **Production and UAT environments**.
+- Support **ETL-style data workflows**, data migration activities, and record-level checks to improve data accuracy and operational continuity.
+- Troubleshoot application and data issues by performing structured query-based investigation.
+- Work with cross-functional teams to prepare reports and support system improvements.
+- Experience in **AML, TBAML, Oracle FCCM, Enterprise Case Management, Flexcube Core Banking, and data workflows**.
+
+---
+
+## 🚀 Projects
+
+### ❤️ Heart Disease Risk Prediction Using Decision Trees and XGBoost
+
+A machine learning project that predicts heart disease risk using patient medical data.
+
+This project covers important machine learning concepts such as:
+
+- Data cleaning  
+- Exploratory Data Analysis  
+- Classification  
+- Logistic Regression  
+- Decision Trees  
+- Entropy  
+- XGBoost  
+- Model evaluation  
+- Prediction pipeline  
+- Streamlit app development  
+
+🔗 **GitHub Repository:**  
+<a href="https://github.com/Usama2001/Heart-Disease-Risk-Prediction-Using-Decision-Trees-and-XGBoost.git">
+Heart Disease Risk Prediction Using Decision Trees and XGBoost
+</a>
+
+🚀 **Live App:**  
+<a href="https://lnkd.in/gvWt6TEN">
+Heart Disease Risk Prediction Live App
+</a>
+
+---
+
+### 🛒 Zero Queue - Cashier-less Retail Store  
+**Final Year Project**
+
+Built **Zero Queue**, a cashier-less retail solution featuring:
+
+- RFID-based store access  
+- Mobile app for seamless shopping  
+- YOLOv8-based product recognition  
+- Real-time inventory management  
+- Secure payment integration  
+
+**Technologies Used:**
+
+- YOLOv8  
+- Computer Vision  
+- React Native  
+- React  
+- Backend Development  
+- RFID  
+- Secure Payment Integration  
+
+---
+
+## 🧠 Licenses & Certifications - AI / ML
+
+<table>
   <tr>
-    <td style="border: 2px solid #4CAF50; padding: 10px; vertical-align: top;">
-      <ul style="list-style-type:none; padding-left: 0;">
-        <li>OOP</li>
-        <li>Databases</li>
-        <li>Python</li>
-        <li>SQL</li>
-        <li>Toad</li>
-        <li>C++</li>
-        <li>OS</li>
-        <li>Linux/Unix</li>
-      </ul>
+    <td>
+      <b>Micro1 - Certified AI Engineer</b>
     </td>
-    <td style="border: 2px solid #4CAF50; padding: 10px; vertical-align: top;">
-      <ul style="list-style-type:none; padding-left: 0;">
-        <li>NLP</li>
-        <li>Deep Learning</li>
-        <li>Big Data</li>
-        <li>ETL/ELT</li>
-        <li>Pandas</li>
-        <li>Excel</li>
-        <li>Power BI</li>
-        <li>Salesforce</li>
-      </ul>
+    <td>
+      Passed Micro1 AI Interview
     </td>
-    <td style="border: 2px solid #4CAF50; padding: 10px; vertical-align: top;">
-      <ul style="list-style-type:none; padding-left: 0;">
-        <li>BigQuery</li>
-        <li>Toad</li>
-        <li>Google Analytics</li>
-        <li>Tableau</li>
-        <li>Numpy</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-      </ul>
+  </tr>
+  <tr>
+    <td>
+      <a href="YOUR_ADVANCED_LEARNING_ALGORITHMS_CERTIFICATE_LINK" target="_blank">
+        <b>Advanced Learning Algorithms</b>
+      </a>
+    </td>
+    <td>
+      DeepLearning.AI
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://learn.deeplearning.ai/certificates/1f9d08b7-58db-4319-85fb-fe9a8b763de4?usp=sharing" target="_blank">
+        <b>Supervised Machine Learning: Regression and Classification</b>
+      </a>
+    </td>
+    <td>
+      DeepLearning.AI
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://learn.deeplearning.ai/accomplishments/2c77cfe1-b6f2-429a-a809-b45db0c26c36?usp=sharing" target="_blank">
+        <b>ChatGPT Prompt Engineering for Developers</b>
+      </a>
+    </td>
+    <td>
+      DeepLearning.AI
     </td>
   </tr>
 </table>
-  <h2>Certifications (DATABASE-SQL)</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" alt="SQL Advanced Certificate" width="200" height="auto" />
-        </a>
-        <br>Advanced
-      </td>
-      <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_intermediate%20certificate-1.png" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_intermediate%20certificate-1.png" alt="SQL Intermediate Certificate" width="200" height="auto" />
-        </a>
-        <br>Intermediate
-      </td>
-      <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_basic%20certificate-1.png" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_basic%20certificate-1.png" alt="SQL Basic Certificate" width="200" height="auto" />
-        </a>
-        <br>Basic
-      </td>
-    </tr>
-  </table>
 
-  
- <h2>Certifications (PYTHON)</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/main/python_basic%20certificate.jpg" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/main/python_basic%20certificate.jpg" alt="Python Basic Certificate" width="200" height="auto" />
-        </a>
-        <br>Basic
-      </td>
-    </tr>
-  </table>
+---
 
- <h2>Certifications (PROBLEM SOLVING)</h2>
-  <table>
-    <tr>
-            <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" alt="SQL Advanced Certificate" width="200" height="auto" />
-        </a>
-        <br>Intermediate
-      </td>
-      <td align="center">
-        <a href="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" target="_blank">
-          <img src="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" alt="Problem Solving(Basic) Certificate" width="200" height="auto" />
-        </a>
-        <br>Basic
-      </td>
-    </tr>
-  </table>
-</body>
+## 🏆 Certifications (DATABASE-SQL)
 
-</html>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" target="_blank">
+        <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_advanced%20certificate-1.png" alt="SQL Advanced Certificate" width="220" />
+      </a>
+      <br><b>Advanced</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_intermediate%20certificate-1.png" target="_blank">
+        <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_intermediate%20certificate-1.png" alt="SQL Intermediate Certificate" width="220" />
+      </a>
+      <br><b>Intermediate</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_basic%20certificate-1.png" target="_blank">
+        <img src="https://github.com/Usama2001/certificates/blob/4dd8484cc874abef850af13709a713cf09020743/sql_basic%20certificate-1.png" alt="SQL Basic Certificate" width="220" />
+      </a>
+      <br><b>Basic</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Certifications (PYTHON)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Usama2001/certificates/blob/main/python_basic%20certificate.jpg" target="_blank">
+        <img src="https://github.com/Usama2001/certificates/blob/main/python_basic%20certificate.jpg" alt="Python Basic Certificate" width="220" />
+      </a>
+      <br><b>Basic</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧩 Certifications (PROBLEM SOLVING)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" target="_blank">
+        <img src="https://github.com/Usama2001/certificates/blob/main/problem_solving_intermediate.jpg" alt="Problem Solving Intermediate Certificate" width="220" />
+      </a>
+      <br><b>Intermediate</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" target="_blank">
+        <img src="https://github.com/Usama2001/certificates/blob/main/Problem%20Solving%20(Basic).jpg" alt="Problem Solving Basic Certificate" width="220" />
+      </a>
+      <br><b>Basic</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/usama2001" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+  <a href="https://fb.com/usama.fiaz.908" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
+  </a>
+  <a href="https://instagram.com/usama_fiaz_2001/?hl=en" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/usama20010101" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45" />
+  </a>
+  <a href="https://leetcode.com/u/usama20010101/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+### 🤖 AI / Machine Learning
+Machine Learning | Deep Learning | Natural Language Processing (NLP) | Neural Networks | Prompt Engineering | AI Agents | XGBoost | YOLOv8 | Computer Vision
+
+### 📊 Data Engineering & Analytics
+ETL Processes | Data Pipelines | Data Transformation | Data Validation | Data Cleaning | Data Analysis | Reporting | Dashboarding | Power BI | Excel
+
+### 🗄️ Databases
+SQL | Oracle SQL / PLSQL | MySQL | PostgreSQL | Data Extraction | Data Reconciliation | Query Optimization | UAT and Production Support
+
+### 💻 Programming & Development Tools
+Python | Pandas | NumPy | Matplotlib | Streamlit | Git / GitHub | Linux / Unix | VS Code | JavaScript | HTML | CSS
+
+### 🏦 Domain Experience
+AML | TBAML | Oracle FCCM | Enterprise Case Management (ECM) | Flexcube Core Banking | Banking Data Workflows
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+</div>
