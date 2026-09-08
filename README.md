@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Implementation Specialist** focused on data engineering, data migration, SQL, Python, ETL, Excel, database workflows, reporting, validation, automation, and core banking data systems.
+I am a **Data Engineer** focused on data migration, SQL, Python, ETL, Excel, database workflows, reporting, validation, automation, and core banking data systems.
 
 My experience covers data intake, quality review, data mapping, transformation, platform configuration, migration validation, reporting, and production support.
 
@@ -37,7 +37,7 @@ I am open to opportunities in **data engineering, data/ML engineering, data impl
 ### Data Implementation Specialist
 
 **Joblogic Service Management Software**  
-**Jun 2026 – Present | Full-time | On-site**
+**Jun 2026 – Aug 2026 | Full-time | On-site**
 
 - Support the onboarding and implementation of client data into the Joblogic platform.
 - Review data quality, map and transform datasets, and identify data issues.
